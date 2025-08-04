@@ -6,40 +6,32 @@ const pastas = {
   
   
 
-Eu sou#I am
-Você é#You are
-Ele é#He is
-Ela é#She is
-eu sou legal#I am nice  
-ela é forte#She is strong  
-ele está bem#He is fine  
-nós estamos prontos#We are ready  
-isso é bonito#It is beautiful  
-isso é ruim#It is bad  
-eu quero isso#I want this  
-você é feliz#You are happy  
-ela tem um gato#She has a cat  
-ele gosta disso#He likes this  
-eu gosto de pizza#I like pizza  
-bom dia#Good morning  
-boa tarde#Good afternoon  
-boa noite#Good night  
-eu estou bem#I am fine  
-eu estou pronto#I am ready  
-isso é legal#This is nice  
-eu sou forte#I am strong  
-ela é feliz#She is happy  
-ele é legal#He is nice  
-eu sou feliz#I am happy  
-ela é bonita#She is beautiful  
-você é legal#You are nice  
-nós somos fortes#We are strong  
-nós temos um plano#We have a plan  
-você tem um cachorro#You have a dog  
-isso é fácil#This is easy  
-isso é difícil#That is hard  
-eu gosto disso#I like this  
-nós amamos música#We love music  
+eu sou#I am  
+você é#You are  
+ele é#He is  
+ela é#She is  
+isso é#It is  
+nós somos#We are  
+eles são#They are  
+Eu sei#I know
+Você sabe#You know
+Eu tenho#I have  
+Eu quero#I want  
+Nós podemos#We can
+Nós gostamos#We like  
+eu vejo#I see  
+eu digo#I say  
+eu penso#I think  
+eu vou#I will  
+You precisa#I need  
+eu entendo#I understand  
+está chovendo#It is raining  
+está tudo bem#It is okay  
+é difícil#It is hard  
+é fácil#It is easy  
+vamos lá#Let's go  
+eu estou indo#I am going  
+eu estou aqui#I am here  
 
 
   
@@ -6458,6 +6450,7 @@ Quase nenhum deles voltou#Scarcely any of them came back
 
 
 }
+
 
 
 
