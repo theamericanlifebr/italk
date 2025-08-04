@@ -45,7 +45,38 @@ eu estou aqui#I am here
   
 Eu tenho um carro#I have a car
 Você tem uma casa#You have a house
-Ele tem uma irmã#He has a sister
+eu sou feliz#I am happy  
+você é legal#You are nice  
+ele é forte#He is strong  
+ela é linda#She is beautiful  
+isso é bom#It is good  
+nós somos amigos#We are friends  
+eles são rápidos#They are fast  
+eu sei tudo#I know everything  
+eu tenho tempo#I have time  
+eu quero água#I want water  
+eu posso correr#I can run  
+eu gosto disso#I like this  
+eu vejo você#I see you  
+eu digo sim#I say yes  
+eu penso muito#I think a lot  
+eu vou sair#I will leave  
+eu preciso dormir#I need sleep  
+eu entendo bem#I understand well  
+está chovendo aqui#It is raining here  
+está tudo certo#It is all right  
+é difícil mesmo#It is hard really  
+é fácil agora#It is easy now  
+vamos lá hoje#Let's go today  
+eu estou indo#I am going  
+eu estou aqui#I am here  
+
+  
+  `   
+
+  3: `
+  
+  
 Ela tem um irmão#She has a brother
 Nós temos um amigo#We have a friend
 Eles têm tempo#They have time
@@ -92,62 +123,6 @@ Ele tem isso#He has this
 Nós vemos aquilo#We see that
 Eles sabem disso#They know this
 
-  
-  `   
-
-  3: `
-  
-  
-Você gosta?#Do you like?
-Você tem?#Do you have?
-Você vê?#Do you see?
-Você ouve?#Do you hear?
-Você sabe?#Do you know?
-Você quer?#Do you want?
-Você precisa?#Do you need?
-Você fala?#Do you talk?
-Você corre?#Do you run?
-Você anda?#Do you walk?
-Ele gosta?#Does he like?
-Ele tem?#Does he have?
-Ele vê?#Does he see?
-Ele ouve?#Does he hear?
-Ele sabe?#Does he know?
-Ele quer?#Does he want?
-Ele precisa?#Does he need?
-Ele fala?#Does he talk?
-Ela gosta?#Does she like?
-Ela tem?#Does she have?
-Ela vê?#Does she see?
-Ela ouve?#Does she hear?
-Ela sabe?#Does she know?
-Ela quer?#Does she want?
-Ela fala?#Does she talk?
-Isso é bom?#Is it good?
-Isso é seu?#Is it yours?
-Isso ajuda?#Does it help?
-Isso funciona?#Does it work?
-Isso é novo?#Is it new?
-Isso é ruim?#Is it bad?
-Nós temos?#Do we have?
-Nós vemos?#Do we see?
-Nós gostamos?#Do we like?
-Nós ouvimos?#Do we hear?
-Nós sabemos?#Do we know?
-Eles têm?#Do they have?
-Eles falam?#Do they talk?
-Eles correm?#Do they run?
-Eles gostam?#Do they like?
-Você está bem?#Are you okay?
-Você está aqui?#Are you here?
-Ele está feliz?#Is he happy?
-Ela está cansada?#Is she tired?
-Estamos prontos?#Are we ready?
-Eles estão aqui?#Are they here?
-Estou certo?#Am I right?
-Está tudo bem?#Is it okay?
-Está certo?#Is it right?
-Está errado?#Is it wrong?
 
 
   `
@@ -6450,6 +6425,7 @@ Quase nenhum deles voltou#Scarcely any of them came back
 
 
 }
+
 
 
 
