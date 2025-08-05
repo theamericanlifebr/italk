@@ -6,57 +6,30 @@ const pastas = {
   
   
 
-Eu te amo#I love you
-Ela saiu#She left
-Está frio#It’s cold
-Me ajuda#Help me
-Vamos lá#Let’s go
-Está bem#It’s fine
-Eu sei#I know
-Ele me viu#He saw me
-Ele viu#He saw
-Ela corre#She runs
-Eu vou#I’ll go
-Me ligue#Call me
-Tudo bem#All good
-Está ok#It’s ok
-Vem cá#Come here
-Saia já#Get out
-Você pode#You can
-Isso dói#It hurts
-Fique aqui#Stay here
-Está aqui#It’s here
-Ele caiu#He fell
-Eu quero#I want
-Me diga#Tell me
-Ele foi#He went
-Vem agora#Come now
-Volte já#Come back
-Bom trabalho#Good job
-Fique calmo#Stay calm
-Pare agora#Stop now
-Vem cá#Come here
-Ajuda aqui#Help here
-Tudo certo#All right
-Sem problemas#No problem
-Me ouça#Hear me
-Você pode#You can
-Vamos juntos#Go together
-Volte já#Come back
-Corra rápido#Run fast
-Durma bem#Sleep well
-Cuidado aí#Watch out
-Olhe isso#Look here
-Pegue isso#Take this
-Espere aí#Wait there
-Escute bem#Listen carefully
-Fique aqui#Stay here
-Fale alto#Speak loud
-Abra isso#Open this
-Feche isso#Close that
-Vire aqui#Turn here
-Entre agora#Enter now
-Sente-se#Sit down
+ "I need#I don't need",
+  "She não#She doesn't",
+  "He likes#He doesn't like",
+  "We go#We don't go",
+  "They eat#They don't eat",
+  "You speak#You don't speak",
+  "It works#It doesn't work",
+  "I play#I don't play",
+  "She reads#She doesn't read",
+  "He runs#He doesn't run",
+  "We cook#We don't cook",
+  "You open#You don't open",
+  "It is#It doesn't",
+  "I help#I don't help",
+  "She walks#She doesn't walk",
+  "He drives#He doesn't drive",
+  "We clean#We don't clean",
+  "They sing#They don't sing",
+  "You learn#You don't learn",
+  "It starts#It doesn't start",
+  "I am#I'm not",
+  "You are#You aren't",
+  "He is#He isn't",
+  "It is#It isn't"
 
 
 
@@ -6358,6 +6331,7 @@ Quase nenhum deles voltou#Scarcely any of them came back
 
 
 }
+
 
 
 
