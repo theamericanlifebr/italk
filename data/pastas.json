@@ -6,32 +6,58 @@ const pastas = {
   
   
 
-Eu sou#I am  
-Você é#You are  
-Ele quer#He wants
-Ela é legal#She is fine
-Isso é azul#It is blue
-Nós somos amigos#We are friends
-Eles são#They are 
+Eu te amo#I love you
+Ela saiu#She left
+Está frio#It’s cold
+Me ajuda#Help me
+Vamos lá#Let’s go
+Está bem#It’s fine
 Eu sei#I know
-Você sabe#You know
-Eu tenho#I have 
-Eu quero#I want  
-Nós podemos ir#We can go
-Nós gostamos#We like 
-Eu vejo#I see 
-Eu digo#I say  
-Eu penso#I think  
-Eu vou#I will  
-Você precisa#You need  
-Eu entendo#I understand  
-Isso é bom#It is good
-Está tudo bem#It is okay  
-É difícil#It is hard  
-É fácil#It is easy  
-Vamos lá#Let's go  
-Eu estou indo#I am going  
-Eu estou aqui#I am here  
+Ele me viu#He saw me
+Ele viu#He saw
+Ela corre#She runs
+Eu vou#I’ll go
+Me ligue#Call me
+Tudo bem#All good
+Está ok#It’s ok
+Vem cá#Come here
+Saia já#Get out
+Você pode#You can
+Isso dói#It hurts
+Fique aqui#Stay here
+Está aqui#It’s here
+Ele caiu#He fell
+Eu quero#I want
+Me diga#Tell me
+Ele foi#He went
+Vem agora#Come now
+Volte já#Come back
+Bom trabalho#Good job
+Fique calmo#Stay calm
+Pare agora#Stop now
+Vem cá#Come here
+Ajuda aqui#Help here
+Tudo certo#All right
+Sem problemas#No problem
+Me ouça#Hear me
+Você pode#You can
+Vamos juntos#Go together
+Volte já#Come back
+Corra rápido#Run fast
+Durma bem#Sleep well
+Cuidado aí#Watch out
+Olhe isso#Look here
+Pegue isso#Take this
+Espere aí#Wait there
+Escute bem#Listen carefully
+Fique aqui#Stay here
+Fale alto#Speak loud
+Abra isso#Open this
+Feche isso#Close that
+Vire aqui#Turn here
+Entre agora#Enter now
+Sente-se#Sit down
+
 
 
   
@@ -43,33 +69,30 @@ Eu estou aqui#I am here
   2: `
   
   
-Eu tenho um carro#I have a car
-Você tem uma casa#You have a house
-eu sou feliz#I am happy  
-você é legal#You are nice  
-ele é forte#He is strong  
-ela é linda#She is beautiful  
-isso é bom#It is good  
-nós somos amigos#We are friends  
-eles são rápidos#They are fast  
-eu sei tudo#I know everything  
-eu tenho tempo#I have time  
-eu quero água#I want water  
-eu posso correr#I can run  
-eu gosto disso#I like this  
-eu vejo você#I see you  
-eu digo sim#I say yes  
-eu penso muito#I think a lot  
-eu vou sair#I will leave  
-eu preciso dormir#I need sleep  
-eu entendo bem#I understand well  
-está chovendo aqui#It is raining here  
-está tudo certo#It is all right  
-é difícil mesmo#It is hard really  
-é fácil agora#It is easy now  
-vamos lá hoje#Let's go today  
-eu estou indo#I am going  
-eu estou aqui#I am here  
+Ela tem um gato#She has a cat
+Está muito frio#It is very cold
+Ele está aqui#He is right here
+Você está bem?#Are you okay
+Vamos agora#Let’s go now
+Estou com sono#I am sleepy
+Ela saiu cedo#She left early
+Você viu isso?#Did you see it
+Ele está pronto#He is ready
+Gosto disso#I like that
+Está chovendo#It is raining
+Você quer ir?#Do you wanna go
+Eu entendi#I got it
+Ele está feliz#He is happy
+Eles estão lá#They are there
+Ela me ama#She loves me
+Vamos andar#Let’s walk
+Você consegue#You can do it
+Ele voltou#He came back
+Ela caiu#She fell down
+Estou bem#I am fine
+Isso é bom#That is good
+Ela chegou#She arrived
+Você dormiu?#Did you sleep
 
   
   `   
@@ -77,51 +100,32 @@ eu estou aqui#I am here
   3: `
   
   
-Ela tem um irmão#She has a brother
-Nós temos um amigo#We have a friend
-Eles têm tempo#They have time
-Eu gosto de pizza#I like pizza
-Você gosta de café#You like coffee
-Ela gosta de música#She likes music
-Ele gosta de futebol#He likes soccer
-Nós gostamos de filmes#We like movies
-Eles gostam de livros#They like books
-Eu quero água#I want water
-Você quer comida#You want food
-Ele quer ajuda#He wants help
-Ela quer dormir#She wants to sleep
-Nós queremos sair#We want to go out
-Eles querem falar#They want to talk
-Eu preciso estudar#I need to study
-Você precisa trabalhar#You need to work
-Ele precisa correr#He needs to run
-Ela precisa descansar#She needs to rest
-Nós precisamos comer#We need to eat
-Eles precisam pensar#They need to think
-Eu vejo minha mãe#I see my mother
-Você vê seu pai#You see your father
-Ele vê o professor#He sees the teacher
-Ela vê os alunos#She sees the students
-Nós vemos um problema#We see a problem
-Eles veem uma solução#They see a solution
-Eu ouço barulho#I hear noise
-Você ouve música#You hear music
-Ele ouve a verdade#He hears the truth
-Ela ouve mentiras#She hears lies
-Nós ouvimos bem#We hear well
-Eles ouvem tudo#They hear everything
-Eu sei seu nome#I know your name
-Você sabe a hora#You know the time
-Ele sabe o caminho#He knows the way
-Ela sabe o motivo#She knows the reason
-Nós sabemos a resposta#We know the answer
-Eles sabem da reunião#They know about the meeting
-Eu gosto disso#I like this
-Você precisa disso#You need this
-Ela quer aquilo#She wants that
-Ele tem isso#He has this
-Nós vemos aquilo#We see that
-Eles sabem disso#They know this
+Está chovendo muito#It is raining a lot
+Ele mora perto daqui#He lives near here
+Você pode repetir?#Can you repeat that
+Vamos sair agora#Let’s go out now
+Ela canta muito bem#She sings very well
+Amanhã será melhor#Tomorrow will be better
+Você está pronto?#Are you ready now
+Eles chegaram cedo#They arrived early
+Ele gosta de ler#He likes to read
+Estou com fome#I am feeling hungry
+Ela tem um gato#She has a cat
+Você viu isso?#Did you see that
+Eu gosto disso#I like this one
+Eles são legais#They are very nice
+Podemos ir juntos?#Can we go together
+Você está certo#You are so right
+Ela trabalha aqui#She works right here
+Estou muito cansado#I am very tired
+Ele me ajudou#He helped me out
+Vamos caminhar#Let’s take a walk
+Eu preciso disso#I need this now
+Você entendeu?#Did you understand
+O tempo está bom#The weather is nice
+Gosto dessa música#I like this music
+Você me conhece?#Do you know me
+
 
 
 
@@ -133,53 +137,31 @@ Eles sabem disso#They know this
 
 
 
-Eu gosto disso#I like this
-Eu não gosto disso#I don't like this
-Você gosta disso#You like this
-Você não gosta disso#You don't like this
-Eu tenho isso#I have this
-Eu não tenho isso#I don't have this
-Você tem isso#You have this
-Você não tem isso#You don't have this
-Eu preciso disso#I need this
-Eu não preciso disso#I don't need this
-Você precisa disso#You need this
-Você não precisa disso#You don't need this
-Eu vejo isso#I see this
-Eu não vejo isso#I don't see this
-Você vê isso#You see this
-Você não vê isso#You don't see this
-Isso é bom#It is good
-Isso é ruim#It is bad
-Isso é novo#It is new
-Isso é velho#It is old
-Isso é fácil#It is easy
-Isso é difícil#It is hard
-Isso é seu#It is yours
-Isso é meu#It is mine
-Isso é dela#It is hers
-Isso é dele#It is his
-É bom?#Is it good?
-É seu?#Is it yours?
-Você está aqui?#Are you here?
-Você está bem?#Are you okay?
-Eu estou certo?#Am I right?
-Você gosta disso?#Do you like this?
-Você quer isso?#Do you want this?
-Você vê isso?#Do you see this?
-Você tem isso?#Do you have this?
-Você precisa disso?#Do you need this?
-Você gosta de música?#Do you like music?
-Você gosta de café?#Do you like coffee?
-Você gosta de mim?#Do you like me?
-Eu gosto de você#I like you
-Eu gosto disso também#I like this too
-Eu gosto de música também#I like music too
-Eu não gosto disso#I don't like this
-Eu não vejo nada#I don't see anything
-Eu não preciso disso#I don't need this
-Você não quer isso#You don't want this
-Você não vê isso#You don't see this
+Eu gosto do seu estilo#I like your style a lot
+Ela está muito ocupada#She is very busy today
+Você pode vir comigo?#Can you come with me now
+Nós precisamos sair logo#We need to leave soon
+Ele é um bom amigo#He is a good friend
+Está muito quente aqui#It is very hot in here
+Ela sempre sorri pra mim#She always smiles at me
+Você vai para o trabalho?#Are you going to work
+A comida estava ótima#The food was really good
+Ele corre todo dia#He runs every single day
+Você gosta de música?#Do you like some music
+Eles moram bem longe#They live pretty far away
+Vamos ao cinema hoje#Let’s go to the movies
+O cachorro está dormindo#The dog is sleeping now
+Ela me ligou ontem#She called me yesterday
+Podemos começar agora?#Can we start right now
+Eles têm um carro novo#They have a new car
+Eu não ouvi você#I did not hear you
+Você trouxe o dinheiro?#Did you bring the money
+Ele chegou bem tarde#He arrived pretty late
+Temos que estudar hoje#We have to study today
+Vamos caminhar no parque#Let’s walk in the park
+Eu gosto do seu cabelo#I like your hair a lot
+O jantar está pronto#Dinner is ready now
+Você viu aquele filme?#Did you see that movie
   
   
   
@@ -189,56 +171,31 @@ Você não vê isso#You don't see this
   5: `
   
   
-Eu não gosto disso#I don't like this
-Você não tem tempo#You don't have time
-Ele não sabe o nome#He doesn't know the name
-Ela não quer isso#She doesn't want this
-Nós não ouvimos nada#We don't hear anything
-Eles não veem o erro#They don't see the mistake
-Eu não preciso disso#I don't need this
-Você não gosta dele#You don't like him
-Ele não tem carro#He doesn't have a car
-Ela não vê problema#She doesn't see a problem
-Você tem um cachorro?#Do you have a dog?
-Ele gosta de chá?#Does he like tea?
-Ela quer sair?#Does she want to go out?
-Você vê isso?#Do you see this?
-Eles têm dinheiro?#Do they have money?
-Você está bem?#Are you okay?
-Ela está cansada?#Is she tired?
-Ele está feliz?#Is he happy?
-Eles estão prontos?#Are they ready?
-Nós estamos aqui?#Are we here?
-Isso é seu?#Is this yours?
-Aquilo é dela?#Is that hers?
-Esse livro é meu#This book is mine
-Aquela casa é sua#That house is yours
-Esse lugar é bonito#This place is beautiful
-Aquele carro é rápido#That car is fast
-Eu gosto desse lugar#I like this place
-Você conhece aquele cara?#Do you know that guy?
-Ele fala comigo#He talks to me
-Ela trabalha lá#She works there
-Nós moramos aqui#We live here
-Eles estudam inglês#They study English
-Eu ando todo dia#I walk every day
-Você corre de manhã#You run in the morning
-Ele estuda à noite#He studies at night
-Ela lê muito#She reads a lot
-Nós assistimos filmes#We watch movies
-Eles escutam rádio#They listen to the radio
-Eu visito minha avó#I visit my grandmother
-Você liga pra ela#You call her
-Ele manda mensagem#He sends a message
-Ela cozinha bem#She cooks well
-Nós limpamos a casa#We clean the house
-Eles jogam futebol#They play soccer
-Eu escrevo cartas#I write letters
-Você compra pão#You buy bread
-Ele dirige rápido#He drives fast
-Ela dança bonito#She dances nicely
-Nós aprendemos juntos#We learn together
-Eles ajudam sempre#They always help
+Eu gosto de café pela manhã#I like coffee in the morning
+Ela está esperando por você#She is waiting there for you
+Você se lembra daquele lugar?#Do you remember that place
+Vamos sair depois do jantar#Let’s go out after dinner
+Ele perdeu o ônibus hoje#He missed the bus today
+O sol está brilhando forte#The sun is shining brightly
+Eles estão jogando no parque#They are playing in the park
+Podemos conversar um pouco?#Can we talk for a moment
+Ela estava lá ontem à noite#She was there last night
+Ele quer falar com você#He wants to talk to you
+Você vai para casa agora?#Are you going home right now
+Estamos prontos para comer#We are ready to eat now
+Ela tem um sorriso bonito#She has a beautiful smile
+Vamos assistir a um filme#Let’s watch a movie tonight
+Ele sempre acorda cedo#He always wakes up early
+Isso parece muito difícil#That seems really difficult
+Ela trabalha no centro#She works in the downtown
+Você terminou sua lição?#Did you finish your homework
+Nós precisamos conversar#We need to have a talk
+Meu telefone está carregando#My phone is charging now
+Você está falando sério?#Are you being serious now
+Eles correram até o parque#They ran up to the park
+Nós comemos bolo ontem#We ate cake yesterday night
+Ele adora futebol demais#He really loves football
+
     
   
   `
@@ -247,56 +204,32 @@ Eles ajudam sempre#They always help
   6: `
   
   
-Eu acordo cedo#I wake up early
-Você dorme tarde#You sleep late
-Ele vai à escola#He goes to school
-Ela volta pra casa#She comes home
-Nós tomamos café#We have breakfast
-Eles jantam juntos#They have dinner together
-Eu gosto de suco#I like juice
-Você gosta de bolo#You like cake
-Ela gosta de ler#She likes to read
-Ele gosta de correr#He likes to run
-Eu vejo TV#I watch TV
-Você ouve rádio#You listen to the radio
-Ele ouve música#He listens to music
-Ela assiste filmes#She watches movies
-Nós ouvimos juntos#We listen together
-Eles assistem também#They watch too
-Eu estudo inglês#I study English
-Você estuda francês#You study French
-Ele estuda de manhã#He studies in the morning
-Ela estuda à noite#She studies at night
-Eu como pão#I eat bread
-Você bebe leite#You drink milk
-Ele come arroz#He eats rice
-Ela bebe água#She drinks water
-Nós comemos aqui#We eat here
-Eles bebem café#They drink coffee
-Eu trabalho hoje#I work today
-Você trabalha amanhã#You work tomorrow
-Ele trabalha muito#He works a lot
-Ela trabalha pouco#She works a little
-Nós saímos cedo#We leave early
-Eles chegam tarde#They arrive late
-Está frio aqui#It is cold here
-Está quente hoje#It is hot today
-Está escuro lá fora#It is dark outside
-Está claro agora#It is light now
-Você está com sono?#Are you sleepy?
-Você está com fome?#Are you hungry?
-Ele está cansado?#Is he tired?
-Ela está doente?#Is she sick?
-Isso é importante#It is important
-Isso é engraçado#It is funny
-Isso é estranho#It is weird
-Isso é comum#It is common
-Eu não como carne#I don’t eat meat
-Você não bebe chá#You don’t drink tea
-Ele não trabalha aqui#He doesn’t work here
-Ela não estuda hoje#She doesn’t study today
-Nós não saímos agora#We don’t leave now
-Eles não gostam disso#They don’t like this
+Você realmente precisa tentar isso#You really need to try this out
+Ela está esperando você lá fora#She is waiting for you outside
+Vamos sair quando você quiser#We will go out whenever you want
+Eles chegaram bem tarde ontem#They arrived quite late yesterday
+A comida está na geladeira#The food is inside the refrigerator
+Você deveria conversar com ele#You should have a talk with him
+Ela vai viajar amanhã cedo#She is traveling early tomorrow
+Vamos terminar isso hoje mesmo#Let’s finish this today itself
+Ele trabalha em um novo projeto#He is working on a new project
+Estou tentando entender aquilo#I’m trying to understand that
+Você pode me encontrar lá#Can you meet me over there please
+Ela sempre esquece os livros#She always forgets the books
+Ele me disse para não ir#He told me not to go there
+Você viu onde ela foi?#Did you see where she just went
+Estamos planejando algo novo#We are planning something new
+Isso parece muito interessante#That sounds very interesting
+Ele está estudando para prova#He is studying for the test
+Nós deveríamos sair mais cedo#We should leave a bit earlier
+Ela vai nos encontrar lá#She will meet us over there
+Ele precisa da sua ajuda#He really needs your help now
+Você já terminou o trabalho?#Have you finished the work yet
+Isso pode levar algum tempo#This might take a little time
+Podemos falar disso depois?#Can we talk about this later
+Eles moram perto da escola#They live close to the school
+Você poderia repetir isso?#Could you please repeat that
+
   
   
   `
@@ -6425,6 +6358,7 @@ Quase nenhum deles voltou#Scarcely any of them came back
 
 
 }
+
 
 
 
