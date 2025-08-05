@@ -6,32 +6,32 @@ const pastas = {
   
   
 
-eu sou#I am  
-você é#You are  
-ele quer#He wants
-ela é legal#She is fine
-isso é#It is  
-nós somos#We are 
-eles são#They are 
+Eu sou#I am  
+Você é#You are  
+Ele quer#He wants
+Ela é legal#She is fine
+Isso é azul#It is blue
+Nós somos amigos#We are friends
+Eles são#They are 
 Eu sei#I know
 Você sabe#You know
 Eu tenho#I have 
 Eu quero#I want  
-Nós podemos#We can
+Nós podemos ir#We can go
 Nós gostamos#We like 
-eu vejo#I see 
-eu digo#I say  
-eu penso#I think  
-eu vou#I will  
+Eu vejo#I see 
+Eu digo#I say  
+Eu penso#I think  
+Eu vou#I will  
 Você precisa#You need  
-eu entendo#I understand  
-está chovendo#It is raining  
-está tudo bem#It is okay  
-é difícil#It is hard  
-é fácil#It is easy  
-vamos lá#Let's go  
-eu estou indo#I am going  
-eu estou aqui#I am here  
+Eu entendo#I understand  
+Isso é bom#It is good
+Está tudo bem#It is okay  
+É difícil#It is hard  
+É fácil#It is easy  
+Vamos lá#Let's go  
+Eu estou indo#I am going  
+Eu estou aqui#I am here  
 
 
   
@@ -6425,6 +6425,7 @@ Quase nenhum deles voltou#Scarcely any of them came back
 
 
 }
+
 
 
 
