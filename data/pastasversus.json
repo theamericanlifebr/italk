@@ -15,21 +15,12 @@ const pastas = {
   "phone#telefone",
   "apple#maçã",
   "table#mesa",
-  "chair#cadeira",
-  "pen#caneta",
-  "bag#bolsa",
   "water#água",
   "food#comida",
-  "shirt#camisa",
   "shoe#sapato",
   "window#janela",
-  "bed#cama",
-  "tree#árvore",
   "sun#sol",
-  "school#escola",
   "game#jogo",
-  "cup#xícara",
-  "hat#chapéu",
   "street#rua",
   "light#luz",
   "clock#relógio",
@@ -38,24 +29,8 @@ const pastas = {
   "bus#ônibus",
   "train#trem",
   "milk#leite",
-  "egg#ovo",
-  "hand#mão",
-  "eye#olho",
-  "face#rosto",
-  "key#chave",
-  "floor#chão",
-  "wall#parede",
-  "family#família",
-  "friend#amigo",
-  "music#música",
-  "movie#filme",
-  "beach#praia",
-  "mountain#montanha",
-  "river#rio",
-  "city#cidade",
-  "computer#computador",
-  "teacher#professor",
-  "student#aluno"
+
+
 
 
 
@@ -6357,6 +6332,7 @@ Quase nenhum deles voltou#Scarcely any of them came back
 
 
 }
+
 
 
 
